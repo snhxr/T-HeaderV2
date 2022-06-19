@@ -32,6 +32,6 @@ This Bash script contains Oh-My-Zsh With, command autosuggestion, syntax highlig
 6. after complete all processing just --open new session-- or `source ~/.zshrc`
 7. For remove tool `cd ~/T-header && bash t-header.sh --remove && exit`
 #
-Video guide available on YouTube channel { [Remo773 T-Bag](https://youtube.com/channel/UCgbvWAc-ULBis51SUpUaiZw) }
+Video guide available on YouTube channel { [S4NH4X0R](https://youtube.com/channel/UCgbvWAc-ULBis51SUpUaiZw) }
 
 Thanks:).
